@@ -1,1 +1,1 @@
-fue de creado de forma local
+fue creado de forma local
