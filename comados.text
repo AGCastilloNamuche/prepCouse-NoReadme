@@ -1,1 +1,2 @@
 git init -> inicializar nuestro repositorio local
+git log -> verificamos los commits 
